@@ -10,7 +10,7 @@ public class MainClass {
         w.addCash(Currency.BILL10);
         w.addCash(Currency.BILL1);
         w.addCash(Currency.QUARTER);
-        w.addCard(new PaymentCard("Discover","3293029302393"));
+        w.addCard(new PaymentCard("Visa","3293029302393"));
         w.addCard(new PaymentCard("Amex","332323232323233"));
         w.addCard(new PaymentCard("Mastercard","3323232323275575"));
         w.addCard(new IDCard("Driver's License"));
